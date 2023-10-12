@@ -1,0 +1,29 @@
+ul {
+  list-style-type: none;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.main {
+  border: 0px solid black;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+form {
+  display: inline-block;
+}
+
+.error {
+  border: 0px solid black;
+  color: tomato;
+  text-align: left;
+  font-size: 0.8em;
+}
+
+.completed {
+  text-decoration: line-through;
+}
